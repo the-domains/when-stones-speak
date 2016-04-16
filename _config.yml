@@ -1,0 +1,28 @@
+name: When Stones Speak
+favicon: null
+layout_spectrum: 0.776088786078617
+typography_spectrum: 0.8706578621640801
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05545363575220108
+  lightness: 0.010959461331367493
+  saturation: 0.5485266149044037
+  rhythmicContrast: 0.8717858821619302
+purpose: []
